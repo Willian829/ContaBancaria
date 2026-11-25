@@ -14,3 +14,4 @@ variável de repositório `DAILY_CONTRIBUTION_ENABLED` com o valor `false`.
 | --- | ---: | ---: | ---: | ---: | --- | --- | --- |
 | 2026-11-13 | 4 | 1 | 0 | 0 | ok (18 linhas) | ✅ sem pendências | [#5](https://github.com/Willian829/ContaBancaria/actions/runs/43350059149) |
 | 2026-11-19 | 4 | 1 | 0 | 0 | ok (18 linhas) | ✅ sem pendências | [#22](https://github.com/Willian829/ContaBancaria/actions/runs/44447106406) |
+| 2026-11-25 | 4 | 1 | 0 | 0 | ok (18 linhas) | ✅ sem pendências | [#38](https://github.com/Willian829/ContaBancaria/actions/runs/45515584684) |
